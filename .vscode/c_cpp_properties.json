@@ -1,0 +1,63 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/Marlin",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/U8glib-HAL_ID1932/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/TMCStepper/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/variants/mega",
+                "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/TMCStepper_ID5513/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/bryan.CORPH/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/Marlin",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/U8glib-HAL_ID1932/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/TMCStepper/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "c:/Users/bryan.CORPH/Documents/GitHub/e5skr/.pio/libdeps/mega2560/TMCStepper_ID5513/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/bryan.CORPH/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50004",
+                "ARDUINO_AVR_MEGA2560",
+                "__MARLIN_FIRMWARE__",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/bryan.CORPH/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
